@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<!--Created by XX-->
+<html>
+<head>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+<link rel="stylesheet" href="./Training-style.css">
+<script type="text/javascript" src="./Training-javascript.js"></script>
+
+</head>
+<body>
+
+  <nav>
+    <div class="nav nav-tabs" id="nav-tab" role="tablist">
+      <a class="nav-item nav-link active" id="nav-XX-tab" data-toggle="tab" href="#nav-XX" role="tab" aria-controls="nav-XX" aria-selected="true">Adobe</a>
+      <a class="nav-item nav-link fade" id="nav-XY-tab" data-toggle="tab" href="#nav-XY" role="tab" aria-controls="nav-XY" aria-selected="true">Microstrategy</a>
+    </div>
+  </nav>
+
+  <div class="tab-content" id="nav-tabContent">
+    <div class="tab-pane fade show active" id="nav-XX-tab" role="tabpanel" aria-labelledby="nav-XX-tab">
+    <div class="container">
+      <br>
+
+
+      <!-- Nav tabs -->
+      <ul class="nav nav-tabs nav-justified" role="tablist">
+        <li class="nav-item">
+          <a class="nav-link active" data-toggle="tab" href="#XXA">XXA</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" data-toggle="tab" href="#XXB">XXB</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" data-toggle="tab" href="#XXC">XXC</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" data-toggle="tab" href="#XXD">XXD</a>
+        </li>
+    </ul>
+
+</div>
+</div>
+
+
+<div class="tab-content">
+
+<div id="about-us" class="container tab-pane active"><br>
+         <h5>Blank</h5>
+         <p>yytjhkjjn</p>
+         <br>
+         <H5> Blank1</h5>
+         </br>
+         <br></br>
+
+         <div class="container">
+         	<div class="row">
+
+         	<!--team-1-->
+         	<div class="col-lg-4">
+         	<div class="our-team-main">
+
+         	<div class="team-front">
+         	<img src="http://placehold.it/110x110/9c27b0/fff?text=None1" class="img-fluid" />
+         	<h6>vnbnbm,</h6>
+
+         	</div>
+
+         	<div class="team-back">
+         	<span>
+<p>vbvnb,m</p>
+<p>bnmn,.m</p>
+         	</span>
+         	</div>
+
+         	</div>
+         	</div>
+         	<!--team-1-->
+
+         	<!--team-2-->
+         	<div class="col-lg-4">
+         	<div class="our-team-main">
+
+         	<div class="team-front">
+         	<img src="http://placehold.it/110x110/336699/fff?text=None" class="img-fluid" />
+         	<h6>Digital Analyst</h6>
+         	</div>
+
+         	<div class="team-back">
+         	<span>
+         	<p> bnbmnm,</p>
+
+         	</span>
+         	</div>
+
+         	</div>
+         	</div>
+         	<!--team-2-->
+
+         	<!--team-3-->
+         	<div class="col-lg-4">
+         	<div class="our-team-main">
+
+         	<div class="team-front">
+         	<img src="http://placehold.it/110x110/607d8b/fff?text=None" class="img-fluid" />
+         	<h6>bnm,/.,/</h6>
+         	</div>
+
+         	<div class="team-back">
+         	<span>
+         <p> bnmbm,nm </p>
+         	</span>
+         	</div>
+
+         	</div>
+         	</div>
+         	<!--team-3-->
+
+         	<!--team-4-->
+         	<div class="col-lg-4">
+         	<div class="our-team-main">
+
+         	<div class="team-front">
+         	<img src="http://placehold.it/110x110/4caf50/fff?text=none" class="img-fluid" />
+         	<h6>nbmn,.m/,</h6>
+
+         	</div>
+
+         	<div class="team-back">
+         	<span>
+      nmn,.m/.
+         	</span>
+         	</div>
+
+         	</div>
+         	</div>
+         	<!--team-4-->
+
+</div>
+</div>
+</div>
+
+<div id="How-to" class="container tab-pane fade"><br>
+         <h5>nbmn,.m,./,./</h5>
+         <p>nmmn,m,m,.</P>
+
+              <div class="container">
+                  <h5>Introduction to Workspaces</h5>
+                    <div class="embed-responsive embed-responsive-16by9">
+                      <iframe width="560" height="315" src="https://www.youtube.com/embed/AnguIQIAi_k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                    </div>
+              </div>
+              <br></br>
+
+
+</div>
+
+<div id="XXD" class="container tab-pane fade"><br>
+  <h5>XXX</h5>
+  <p>Quiz</P>
+    <div class="panel1">
+
+
+        <P> <strong>Question 1: </strong> <br>
+          vbn,mn.m,m/.,.,</a> <br>
+          a) 123 <br>
+          b) 456 <br>
+          c) 789 <br>
+
+        <div class="quizanswer" id="quizanswer1"></div>
+
+    <button class="Quiz" onclick="quizanswer1()">Answer</button> <br></br> <!--you saying that on clicking the button , Myfunction is operated-->
+
+      <br><strong>Question 2: </strong> <br>
+          ghjkl; <br>
+          a) 123 <br>
+          b) 234<br>
+          c) 234 <br>
+
+    </p>
+
+    <div class="quizanswer" id="quizanswer2"></div>
+
+    <button class="Quiz" onclick="quizanswer2()">Answer</button> <br></br> <!--you saying that on clicking the button , Myfunction is operated-->
+
+    
+
+  </p>
+
+    <p id="HPAns"></p1><!--specify what the id for button is-->
+
+</div>
+</div>
+
+
+
+<div id="XXC" class="container tab-pane fade"><br>
+        <h5> <strong> nmcmxnv,xmcv,. </strong> </h5>
+
+
+        <p><strong>vbnm,? </strong></p>
+        <p>
+</div>
+
+<a class="nav-item nav-link fade" id="nav-XY-tab" data-toggle="tab" href="#nav-XY" role="tab" aria-controls="nav-XY" aria-selected="true">Microstrategy</a></div>
+
+</div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
+</body>
+</html>
+
+
+
+//label chnaging//
+
+    $(document).ready(function(){
+        // Add minus icon for collapse element which is open by default
+        $(".collapse.in").each(function(){
+        	$(this).siblings(".panel-heading").find(".glyphicon").addClass("glyphicon-minus").removeClass("glyphicon-plus");
+        });
+
+        // Toggle plus minus icon on show hide of collapse element
+        $(".collapse").on('show.bs.collapse', function(){
+        	$(this).parent().find(".glyphicon").removeClass("glyphicon-plus").addClass("glyphicon-minus");
+        }).on('hide.bs.collapse', function(){
+        	$(this).parent().find(".glyphicon").removeClass("glyphicon-minus").addClass("glyphicon-plus");
+        });
+    });
+
+
+//Accordion script//
+
+var acc = document.getElementsByClassName("accordion");
+var i;
+var numberOfElementsAccordion = acc.length;
+
+for (i = 0; i < acc.length; i++) {
+    acc[i].onclick = function(){
+      /* Toggle between adding and removing the "active" class,
+              to highlight the button that controls the panel */
+        this.classList.toggle("active");
+          /* Toggle between hiding and showing the active panel */
+        var panel = this.nextElementSibling;
+        if (panel.style.display === "block") {
+            panel.style.display = "none";
+        } else {
+            panel.style.display = "block";
+        }
+    }
+}
+
+
+//quiz script//
+
+function quizanswer1() { /* specifies what  myFunction does */
+  document.getElementById("quizanswer1").innerHTML = "123"; /*when you click on the button, show the results*/
+}
+function quizanswer2() { /* specifies what  myFunction does */
+  document.getElementById("quizanswer2").innerHTML = "234"; /*when you click on the button, show the results*/
+}
+
+
